@@ -43,7 +43,7 @@ export default function App(){
 
     return (
     <div className="app">
-        <h1>ZOLES NOTES SITE</h1>
+        <h1>Notes website</h1>
         
             <div className="app--new">
                 <motion.button   
